@@ -1,10 +1,18 @@
-- 👋 Hi, I’m Hewenxuan Li, you are also welcomed to call me Vincent. 
-- 👀 I’m interested in the study of:
-        system/damage intercation under the engineering fatigue context; 
-        nonlinear dynamics in mechanical and electrical systems (mechanical/electrical oscillators);
-        Data-driven modeling of the above mentioned system using nonlinear time series analysis and machine learning.
-- 🌱 I’m currently a postdoc at LISC, Cornell, focusing on intelligent perception and control for flying robots and underwater navigation.
-     other research interests involve modal identification, pattern recognition, and their applications in complex systems.
+👋 Hi, I’m Hewenxuan Li, you are also welcomed to call me Vincent.
+I am currently a post-doctoral researcher in laboratory of intelligent sensing and control (LISC) at Cornell University with a research focus on
+- perception, flight dynamics, and control of insect-like robots
+- data-driven actuation model identification for insect flights
+- underwater target recognition and autonomous navigation
+
+Prior to my post-doctoral study, I was a PhD student at the University of Rhode Island, focused on
+- experimental investigation of damage evolution mechanism in nonlinear systems and 3D-printed materials
+- fatigue damage modeling and prognosis in nonlinear systems
+- data-driven modal analysis of mechanical systems
+
+👀 I’m interested in the study of:
+- system/damage intercation under the engineering fatigue context; 
+- nonlinear dynamics in mechanical and electrical systems (mechanical/electrical oscillators);
+- Data-driven modeling of the above mentioned system using nonlinear time series analysis and machine learning.
 - 💞️ I’m looking to collaborate on deep learning and its application in damage prognosis under complex loading setup/ complex systems.
 - 📫 Contact info: hl2379@cornell.edu or hewenxuan_li@uri.edu (email will be forwarded to cornell.edu email)
 
