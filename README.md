@@ -14,7 +14,7 @@ Prior to my post-doctoral study, I was a PhD student at the University of Rhode 
 - nonlinear dynamics in mechanical and electrical systems (mechanical/electrical oscillators);
 - Data-driven modeling of the above mentioned system using nonlinear time series analysis and machine learning.
 - 💞️ I’m looking to collaborate on deep learning and its application in damage prognosis under complex loading setup/ complex systems.
-- 📫 Contact info: hl2379@cornell.edu or hewenxuan_li@uri.edu (email will be forwarded to cornell.edu email)
+- 📫 Contact info: hewenxuan.li at Cornell dot edu or hewenxuan_li at uri dot edu (email will be forwarded to cornell email)
 
 <!---
 lhwx1224/lhwx1224 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
